@@ -1,7 +1,7 @@
 ﻿# The Game of Chess: An Analysis
 ![A hand moving a chess piece](https://assets.dicebreaker.com/chess-playing-hand.jpeg/BROK/resize/1200x1200%3E/format/jpg/quality/70/chess-playing-hand.jpeg)
 ## About Us
-Authors: Drake Doyle, Giancarlo Giannetti, Hailey D'Souza, Mohammed Raafe
+Authors: Drake Doyle, Giancarlo Giannetti, Hailey D'Souza, Mohammad Raafe
 
 # Introduction
 
